@@ -1,4 +1,5 @@
 # COMPUTER-SCIENCE-ARTICLES
-- This repository is dedicated to store and collect useful articles in Computer Science domain, to have an easy access whenever you want to take a look at them.
-- You can also make your own contributions and add articles/stuff you find in the web using **Issues** tab. 
-- Don't forget to use tags to categorize the articles.
+- This repository is dedicated to collect useful any article, fun stuff related to Computer Science, to have an easy access whenever you want to take a look at them.
+- You are welcome to make your own contributions, add articles and other useful stuff you find in the web.
+- Please use the **Issues** tab to add any resource. 
+- Don't forget to use tags, to categorise the entries!
